@@ -1,17 +1,23 @@
 {
-  "posts": [
+  "dataphones": [
     {
       "id": 1,
-      "title": "Post 1"
+      "active": true,
+      "code": "dt001",
+      "name": "Name1"
+      "serial": "sn00001",
+      "spdy": true,
+      "using": true
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "active": true,
+      "code": "dt002",
+      "name": "Name2"
+      "serial": "sn00002",
+      "spdy": true,
+      "using": true
     },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
   ],
   "comments": [
     {
