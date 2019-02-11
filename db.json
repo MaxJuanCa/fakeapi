@@ -4,7 +4,7 @@
       "id": 1,
       "active": true,
       "code": "dt001",
-      "name": "Name1"
+      "name": "Name1",
       "serial": "sn00001",
       "spdy": true,
       "using": true
@@ -13,22 +13,22 @@
       "id": 2,
       "active": true,
       "code": "dt002",
-      "name": "Name2"
+      "name": "Name2",
       "serial": "sn00002",
       "spdy": true,
       "using": true
-    },
+    }
   ],
-  "comments": [
+  "DeliveryMans": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "active": true,
+      "city": "Bogotá"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "active": true,
+      "city": "Cali"
     }
   ],
   "profile": {
