@@ -125,17 +125,5 @@
       "token": "ujhygopfspiklgywo",
       "rh": "O+"
     }
-  ],
-  "Novelties": [
-    {
-      "id": 1,
-      "code": "inc",
-      "name": "Incapacitado"
-    },
-    {
-      "id": 2,
-      "code": "out",
-      "name": "Fuera de ruta"
-    }
   ]
 }
