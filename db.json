@@ -64,7 +64,7 @@
     {
       "id": 1,
       "code": "com",
-      "name": "Común2"
+      "name": "Común"
     },
     {
       "id": 2,
@@ -124,6 +124,29 @@
       },
       "token": "ujhygopfspiklgywo",
       "rh": "O+"
-    }
+    },
+    {
+    "id": 2,
+    "active": true,
+    "city": {
+      "id": 1,
+      "code": "BOG",
+      "name": "Bogotá"
+    },
+    "email": "pedro.ramirez@marketmix.com.co",
+    "fullName": "Pedro Ramirez",
+    "identificationId": "94238922",
+    "mobile": "3108969359",
+    "name": "Juan Camilo",
+    "nameLast": "Ramírez",
+    "username": "pedroamirez",
+    "typeDocument": {
+      "id": 1,
+      "code": "CC",
+      "name": "Cédula de Ciudadanía"
+    },
+    "token": "hjgygopfspiklgywo",
+    "rh": "O+"
+  }
   ]
 }
