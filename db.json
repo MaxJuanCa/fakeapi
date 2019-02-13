@@ -46,6 +46,53 @@
           "rid" : "#4:2"
         }
       ]
+    },
+    {
+      "id": 2,
+      "address": "Carrera 14 # 23-25 Of. 301",
+      "apiToken": "kiloerlñkdsfslfdsfksM",
+      "name": "Frisby",
+      "code": "frisbycol",
+      "periodInvoice": 60,
+      "businessId": "com.frisby.com",
+      "businessName": "Frisby",
+      "phone": "4564578",
+      "typeInvoices": {
+        "id": 1,
+        "code": "electronic",
+        "name": "Eléctronica"
+      },
+      "ivaRegime": {
+        "id": 1,
+        "code": "com",
+        "name": "Común"
+      },
+      "city": {
+        "id": 1,
+        "code": "BOG",
+        "name": "Bogotá"
+      },
+      "contacts": [
+        {
+          "name": "Antonio Machado",
+          "mobile": "3504589965"
+        }
+      ],
+      "cityName": "Bogotá",
+      "accountBanks": [
+        {
+          "numberAccount" : "121212121211212",
+          "bank" : "#46:0",
+          "type" : "#49:0",
+          "rid" : "#4:0"
+        },
+        {
+          "numberAccount" : "45654545421224",
+          "bank" : "#46:0",
+          "type" : "#49:0",
+          "rid" : "#4:2"
+        }
+      ]
     }
   ],
   "Cities": [
