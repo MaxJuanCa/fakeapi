@@ -90,6 +90,15 @@
       "active": false,
       "spdy": true,
       "using": false
+    },
+    {
+      "id": 3,
+      "code": "DT003",
+      "name": "Datafono 003",
+      "serial": "45859987AJ55C",
+      "active": false,
+      "spdy": true,
+      "using": false
     }
   ],
   "Deliverymen": [
