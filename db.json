@@ -108,8 +108,20 @@
         "id": 1,
         "code": "BOG",
         "name": "Bogotá"
-      }
-
+      },
+      "email": "camilo.ramirez@marketmix.com.co",
+      "fullName": "Juan Camilo Ramirez",
+      "identificationId": "93238922",
+      "mobile": "3208969359",
+      "name": "Juan Camilo",
+      "username": "camiloramirez",
+      "typeDocument": {
+        "id": 1,
+        "code": "CC",
+        "name": "Cédula de Ciudadanía"
+      },
+      "token": "ujhygopfspiklgywo",
+      "rh": "O+"
     }
   ]
 }
