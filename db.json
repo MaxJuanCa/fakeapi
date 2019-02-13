@@ -1,37 +1,106 @@
 {
-  "dataphones": [
+  "commerce": [
     {
       "id": 1,
+      "address": "Calle 14 # 23-25 Of. 301",
+      "apiToken": "hjdoerlñkdsfslfdsfksM",
+      "name": "PPC",
+      "code": "pepece",
+      "periodInvoice": 30,
+      "businessId": "com.ppc.com",
+      "businessName": "PPC",
+      "phone": "2264578",
+      "typeInvoices": {
+        "id": 1,
+        "code": "electronic",
+        "name": "Eléctronica"
+      },
+      "ivaRegime": {
+        "id": 1,
+        "code": "com",
+        "name": "Común"
+      },
+      "city": {
+        "id": 1,
+        "code": "BOG",
+        "name": "Bogotá"
+      },
+      "contacts": [
+        {
+          "name": "Juan Camilo",
+          "mobile": "3208969359"
+        }
+      ],
+      "cityName": "Bogotá",
+      "accountBanks": [
+        {
+          "numberAccount" : "121212121211212",
+          "bank" : "#46:0",
+          "type" : "#49:0",
+          "rid" : "#4:0"
+        },
+        {
+          "numberAccount" : "45654545421224",
+          "bank" : "#46:0",
+          "type" : "#49:0",
+          "rid" : "#4:2"
+        }
+      ]
+    }
+  ],
+  "Cities": [
+    {
+      "id": 1,
+      "code": "BOG",
+      "name": "Bogotá"
+    },
+    {
+      "id": 2,
+      "code": "BOG",
+      "name": "Barraquilla"
+    }
+  ],
+  "IvaRegimes": [
+    {
+      "id": 1,
+      "code": "com",
+      "name": "Común2"
+    },
+    {
+      "id": 2,
+      "code": "sim",
+      "name": "Simplificado"
+    }
+  ],
+  "Dataphones": [
+    {
+      "id": 1,
+      "code": "DT001",
+      "name": "Datafono 001",
+      "serial": "45859987AJ55A",
       "active": true,
-      "code": "dt001",
-      "name": "Name1",
-      "serial": "sn00001",
       "spdy": true,
       "using": true
     },
     {
       "id": 2,
-      "active": true,
-      "code": "dt002",
-      "name": "Name2",
-      "serial": "sn00002",
+      "code": "DT002",
+      "name": "Datafono 002",
+      "serial": "45859987AJ55B",
+      "active": false,
       "spdy": true,
-      "using": true
+      "using": false
     }
   ],
-  "DeliveryMans": [
+  "Deliverymen": [
     {
-      "id": 1,
       "active": true,
-      "city": "Bogotá"
-    },
-    {
-      "id": 2,
-      "active": true,
-      "city": "Cali"
+      "city": {
+        "id": 1,
+        "code": "BOG",
+        "name": "Bogotá"
+      }
+
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
