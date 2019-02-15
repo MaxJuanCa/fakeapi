@@ -134,9 +134,9 @@
       "code": "DT002",
       "name": "Datafono 002",
       "serial": "45859987AJ55B",
-      "active": false,
+      "active": "false",
       "spdy": true,
-      "using": false
+      "using": "En espera"
     },
     {
       "id": 3,
@@ -145,7 +145,7 @@
       "serial": "45859987AJ55C",
       "active": false,
       "spdy": true,
-      "using": false
+      "using": "En espera"
     }
   ],
   "Deliverymen": [
@@ -174,7 +174,7 @@
     },
     {
     "id": 2,
-    "active": true,
+    "active": false,
     "city": {
       "id": 1,
       "code": "BOG",
